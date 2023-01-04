@@ -1,5 +1,5 @@
 # Credit-Score-Classifier-
-Building credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. By predicting the probability that somebody will experience financial distress in the next two years, borrowers can use to help make the best financial decisions.
+Building credit scoring algorithms, which make a guess at the probability of default, are the method that banks use to determine whether or not a loan should be granted. By predicting the probability that somebody will experience financial distress in the next two years, borrowers can use to help make the best financial decisions.
 
 In this repository there are 4 different types of CSV : 
 
